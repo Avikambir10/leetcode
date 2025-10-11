@@ -29,11 +29,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Avikambir10/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/Avikambir10/leetcode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/Avikambir10/leetcode/tree/master/0871-keys-and-rooms) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Avikambir10/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/Avikambir10/leetcode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/Avikambir10/leetcode/tree/master/0871-keys-and-rooms) |
 ## Binary Tree
 |  |
@@ -42,5 +44,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Avikambir10/leetcode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/Avikambir10/leetcode/tree/master/0871-keys-and-rooms) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Avikambir10/leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
