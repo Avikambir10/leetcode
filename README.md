@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0283-move-zeroes](https://github.com/Avikambir10/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Avikambir10/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0605-can-place-flowers](https://github.com/Avikambir10/leetcode/tree/master/0605-can-place-flowers) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Avikambir10/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Hash Table
 |  |
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Avikambir10/leetcode/tree/master/0141-linked-list-cycle) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/Avikambir10/leetcode/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
