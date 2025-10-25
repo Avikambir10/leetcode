@@ -41,16 +41,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Avikambir10/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Avikambir10/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Avikambir10/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/Avikambir10/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Tree
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Avikambir10/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/Avikambir10/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Avikambir10/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0547-number-of-provinces](https://github.com/Avikambir10/leetcode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/Avikambir10/leetcode/tree/master/0871-keys-and-rooms) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/Avikambir10/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Avikambir10/leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Breadth-First Search
 |  |
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Avikambir10/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/Avikambir10/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Graph
 |  |
 | ------- |
@@ -121,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Avikambir10/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/Avikambir10/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 <!---LeetCode Topics End-->
