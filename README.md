@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Avikambir10/leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Avikambir10/leetcode/tree/master/0136-single-number) |
+| [0200-number-of-islands](https://github.com/Avikambir10/leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Avikambir10/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Avikambir10/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Avikambir10/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Avikambir10/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Avikambir10/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Avikambir10/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Avikambir10/leetcode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Avikambir10/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/Avikambir10/leetcode/tree/master/0871-keys-and-rooms) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Avikambir10/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Avikambir10/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Avikambir10/leetcode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Avikambir10/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/Avikambir10/leetcode/tree/master/0871-keys-and-rooms) |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Avikambir10/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Avikambir10/leetcode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Avikambir10/leetcode/tree/master/0801-is-graph-bipartite) |
 ## String
@@ -104,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Avikambir10/leetcode/tree/master/0200-number-of-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Avikambir10/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2428-equal-row-and-column-pairs](https://github.com/Avikambir10/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## Simulation
