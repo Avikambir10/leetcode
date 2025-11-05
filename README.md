@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Avikambir10/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Avikambir10/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Avikambir10/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Avikambir10/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Avikambir10/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Depth-First Search
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Avikambir10/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Avikambir10/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Avikambir10/leetcode/tree/master/0200-number-of-islands) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Avikambir10/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Avikambir10/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Avikambir10/leetcode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Avikambir10/leetcode/tree/master/0801-is-graph-bipartite) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Avikambir10/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Avikambir10/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Avikambir10/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Avikambir10/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Avikambir10/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Graph
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Avikambir10/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Avikambir10/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Stack
 |  |
