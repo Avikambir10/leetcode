@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Avikambir10/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Avikambir10/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0605-can-place-flowers](https://github.com/Avikambir10/leetcode/tree/master/0605-can-place-flowers) |
+| [0747-min-cost-climbing-stairs](https://github.com/Avikambir10/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Avikambir10/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Avikambir10/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2428-equal-row-and-column-pairs](https://github.com/Avikambir10/leetcode/tree/master/2428-equal-row-and-column-pairs) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0747-min-cost-climbing-stairs](https://github.com/Avikambir10/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/Avikambir10/leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
