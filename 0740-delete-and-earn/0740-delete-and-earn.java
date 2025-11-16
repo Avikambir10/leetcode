@@ -1,35 +1,25 @@
 class Solution {
-    HashMap<Integer,Integer> cache = new HashMap<>();
     public int deleteAndEarn(int[] nums) {
-        HashMap<Integer,Integer> map = new HashMap<>();
+        int maxi = 0;
 
-        int maxi = nums[0];
-        for(int num : nums){
-            maxi = Math.max(maxi,num);
+        int n = nums.length;
+        for(int num : nums) maxi = Math.max(maxi,num);
 
-            if(map.containsKey(num)){
-                map.put(num,map.get(num) + num);
-            }else{
-                map.put(num,num);
-            }
-        }        
+        int [] points = new int[maxi + 1];
 
-        return func(maxi,map);
+        for(int num : nums) points[num] += num;
+
+        int[] dp = new int[maxi + 1];
+
+        dp[0] = 0;
+        dp[1] = points[1];
+
+        for(int i = 2; i <= maxi; i++) {
+            dp[i]= Math.max(dp[i-2] + points[i] , dp[i-1]);
+        }
+
+        return dp[maxi];
     }
 
-    int func(int n, HashMap<Integer,Integer> map){
-        if(cache.containsKey(n)) {
-            return cache.get(n);
-        }       
-        
-        if(n == 0)return 0;
-
-        if(n == 1)return map.getOrDefault(1,0);
-
-        cache.put(n, Math.max(map.getOrDefault(n,0) + func(n - 2,map) ,
-                        func(n-1, map)));
-
-        return cache.get(n);
-        
-    }
+    
 }
