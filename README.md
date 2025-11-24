@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Avikambir10/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0232-implement-queue-using-stacks](https://github.com/Avikambir10/leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -194,4 +195,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Avikambir10/leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Avikambir10/leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Avikambir10/leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
