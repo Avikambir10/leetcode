@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Avikambir10/leetcode/tree/master/0257-binary-tree-paths) |
 | [0389-find-the-difference](https://github.com/Avikambir10/leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Avikambir10/leetcode/tree/master/0409-longest-palindrome) |
+| [0434-number-of-segments-in-a-string](https://github.com/Avikambir10/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/Avikambir10/leetcode/tree/master/0782-jewels-and-stones) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Avikambir10/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1894-merge-strings-alternately](https://github.com/Avikambir10/leetcode/tree/master/1894-merge-strings-alternately) |
