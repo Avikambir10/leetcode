@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Avikambir10/leetcode/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/Avikambir10/leetcode/tree/master/0326-power-of-three) |
 | [1236-n-th-tribonacci-number](https://github.com/Avikambir10/leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Avikambir10/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Dynamic Programming
 |  |
 | ------- |
