@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Avikambir10/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Avikambir10/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Avikambir10/leetcode/tree/master/0389-find-the-difference) |
+| [0398-random-pick-index](https://github.com/Avikambir10/leetcode/tree/master/0398-random-pick-index) |
 | [0409-longest-palindrome](https://github.com/Avikambir10/leetcode/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Avikambir10/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0740-delete-and-earn](https://github.com/Avikambir10/leetcode/tree/master/0740-delete-and-earn) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/Avikambir10/leetcode/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/Avikambir10/leetcode/tree/master/0326-power-of-three) |
+| [0398-random-pick-index](https://github.com/Avikambir10/leetcode/tree/master/0398-random-pick-index) |
 | [1236-n-th-tribonacci-number](https://github.com/Avikambir10/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Avikambir10/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Dynamic Programming
@@ -222,4 +224,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Avikambir10/leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/Avikambir10/leetcode/tree/master/0398-random-pick-index) |
+## Randomized
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/Avikambir10/leetcode/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
