@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Avikambir10/leetcode/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/Avikambir10/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Avikambir10/leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Avikambir10/leetcode/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/Avikambir10/leetcode/tree/master/0200-number-of-islands) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Avikambir10/leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Avikambir10/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Avikambir10/leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Avikambir10/leetcode/tree/master/0141-linked-list-cycle) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Avikambir10/leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Avikambir10/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/Avikambir10/leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Bit Manipulation
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Avikambir10/leetcode/tree/master/0042-trapping-rain-water) |
 | [0740-delete-and-earn](https://github.com/Avikambir10/leetcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/Avikambir10/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/Avikambir10/leetcode/tree/master/1236-n-th-tribonacci-number) |
@@ -232,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0398-random-pick-index](https://github.com/Avikambir10/leetcode/tree/master/0398-random-pick-index) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Avikambir10/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
