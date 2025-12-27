@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Avikambir10/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Avikambir10/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2428-equal-row-and-column-pairs](https://github.com/Avikambir10/leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Avikambir10/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Avikambir10/leetcode/tree/master/0389-find-the-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Avikambir10/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Avikambir10/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Avikambir10/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Tree
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/Avikambir10/leetcode/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/Avikambir10/leetcode/tree/master/0605-can-place-flowers) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Avikambir10/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Matrix
 |  |
 | ------- |
