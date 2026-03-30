@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/Avikambir10/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Avikambir10/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1894-merge-strings-alternately](https://github.com/Avikambir10/leetcode/tree/master/1894-merge-strings-alternately) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Avikambir10/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Linked List
 |  |
 | ------- |
