@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Avikambir10/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/Avikambir10/leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Avikambir10/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Avikambir10/leetcode/tree/master/0075-sort-colors) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Avikambir10/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Avikambir10/leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Avikambir10/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Avikambir10/leetcode/tree/master/0075-sort-colors) |
