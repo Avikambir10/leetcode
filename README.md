@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Avikambir10/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Avikambir10/leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Avikambir10/leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Avikambir10/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Avikambir10/leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Avikambir10/leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Avikambir10/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Avikambir10/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/Avikambir10/leetcode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Avikambir10/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Avikambir10/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Avikambir10/leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Avikambir10/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Avikambir10/leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Avikambir10/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Avikambir10/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Avikambir10/leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Avikambir10/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Avikambir10/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Avikambir10/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -265,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Avikambir10/leetcode/tree/master/0238-product-of-array-except-self) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Avikambir10/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
