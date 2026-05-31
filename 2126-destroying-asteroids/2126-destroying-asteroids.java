@@ -6,7 +6,7 @@ class Solution {
         for (int asteroid : asteroids) {
             if (mass >= asteroid) {
                 mass += asteroid;
-            } else if (mass > 1e5) {
+            } else if (mass >= 1e5) {
                 return true;
             } else {
                 return false;
